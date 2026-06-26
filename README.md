@@ -2,7 +2,7 @@
 
 AITexturebox is a simple texture-making tool for students. It helps students extract flat texture areas from AI-generated images, product images, package mockups, or reference images, then arrange them as UV-like texture islands.
 
-Author: **田汉 + 노이미디어**
+Author: **Tian Han**
 
 ## 다운로드
 
@@ -72,7 +72,7 @@ AITexturebox는 학생과 테스트 참여자에게 무료로 제공됩니다. �
 
 AITexturebox is a simple texture-making tool designed for students. It helps users extract perspective texture regions from AI-generated images and arrange them as UV-like islands.
 
-Author: **田汉 + 노이미디어**
+Author: **Tian Han**
 
 The software is free for students and testers for non-commercial class practice, personal learning, and research participation. Commercial use is not permitted.
 
